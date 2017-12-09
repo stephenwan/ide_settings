@@ -1,6 +1,6 @@
 Ctrl + L
 
-- (P) list paths (File Path in Main menu | Navigate)
+- (O) list paths (File Path in Main menu | Navigate)
 - (C) list recent changes (Recent changes in Main menu | View)
 - (R) list refactor options (Refactor this... in Main Menu | Refactor)
 - (T) list recent tests (Recent Tests in Other)
