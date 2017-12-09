@@ -16,20 +16,17 @@ Ctrl + L
 - list supertypes (Supertypes Hierarchy) (not working)
 
 Ctrl + G
-
 - (P) to select in project view (Select in Project View)
-- (S) to move to opposite group (Move to Opposite Group in Other)
-- (CTRL + S) to open in opposite group (Open in Opposite Group in Other)
-- (RIGHT) goto next splitter
-- (LEFT) goto previous splitter
-- (DOWN) split vertically
-- (UP) unsplit
 
 
 Ctrl + Tab
-
-- (RIGHT) next tab
-- (LEFT) previous tab
-- (DOWN) list hidden tabs
-- (UP) close tab
-
+- (RIGHTB) next tab
+- (LEFTB) previous tab
+- (L) list hidden tabs
+- (C) close tab
+- (RIGHT) goto next splitter
+- (LEFT) goto previous splitter
+- (S) to move to opposite group (Move to Opposite Group in Other)
+- (CTRL + S) to open in opposite group (Open in Opposite Group in Other)
+- (\) split vertically
+- (CTRL + \) unsplit
