@@ -20,13 +20,18 @@ Ctrl + G
 
 
 Ctrl + Tab
-- (RIGHTB) next tab
-- (LEFTB) previous tab
-- (L) list hidden tabs
-- (C) close tab
-- (RIGHT) goto next splitter
-- (LEFT) goto previous splitter
+- (RIGHT) next tab
+- (LEFT) previous tab
+- (DOWN) list hidden tabs
+- (UP) close tab
 - (S) to move to opposite group (Move to Opposite Group in Other)
 - (CTRL + S) to open in opposite group (Open in Opposite Group in Other)
 - (\) split vertically
 - (CTRL + \) unsplit
+
+Alt + Shift
+- (RIGHT) move to next splitter
+- (LEFT) move to previous splitter
+- (UP) move line up
+- (DOWN) move line down
+
