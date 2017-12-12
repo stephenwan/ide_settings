@@ -1,7 +1,7 @@
 Ctrl + L
 
 - (O) list paths (File Path in Main menu | Navigate)
-- (C) list recent changes (Recent changes in Main menu | View)
+- ~(C) list recent changes (Recent changes in Main menu | View)~
 - (R) list refactor options (Refactor this... in Main Menu | Refactor)
 - (T) list recent tests (Recent Tests in Other)
 - (B) list bookmarks (Show bookmarks in Main menu | Navigate | Book)
@@ -11,6 +11,7 @@ Ctrl + L
 - (U) list usages (Show usages in Main menu | Edit | Find)
 - (I) list implementations (Implementations in Main menu | Navigate)
 - (P) list projects (Open Project Windows in Other)
+- (S) list current file structure (File Structure | Navigate)
 - list view modes (View mode) (action not found)
 - list subtypes (Subtypes Hierachy) (not working)
 - list supertypes (Supertypes Hierarchy) (not working)
