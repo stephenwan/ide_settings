@@ -12,9 +12,10 @@ Ctrl + L
 - (I) list implementations (Implementations in Main menu | Navigate)
 - (P) list projects (Open Project Windows in Other)
 - (S) list current file structure (File Structure | Navigate)
-- list view modes (View mode) (action not found)
-- list subtypes (Subtypes Hierachy) (not working)
-- list supertypes (Supertypes Hierarchy) (not working)
+- ~list view modes (View mode) (action not found)~
+- (SPACE) list schemes (View | Quick Switch Scheme)
+- ~list subtypes (Subtypes Hierachy) (not working)~
+- ~list supertypes (Supertypes Hierarchy) (not working)~
 
 Ctrl + G
 - (P) to select in project view (Select in Project View)
