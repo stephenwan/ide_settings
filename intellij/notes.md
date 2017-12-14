@@ -13,7 +13,7 @@ Ctrl + L
 - (P) list projects (Open Project Windows in Other)
 - (S) list current file structure (File Structure | Navigate)
 - ~list view modes (View mode) (action not found)~
-- (SPACE) list schemes (View | Quick Switch Scheme)
+- ~(SPACE) list schemes (View | Quick Switch Scheme)~
 - ~list subtypes (Subtypes Hierachy) (not working)~
 - ~list supertypes (Supertypes Hierarchy) (not working)~
 
@@ -26,8 +26,7 @@ Ctrl + Tab
 - (LEFT) previous tab
 - (DOWN) list hidden tabs
 - (UP) close tab
-- (S) to move to opposite group (Move to Opposite Group in Other)
-- (CTRL + S) to open in opposite group (Open in Opposite Group in Other)
+- (TAB) to move to opposite group (Move to Opposite Group in Other)
 - (\) split vertically
 - (CTRL + \) unsplit
 
