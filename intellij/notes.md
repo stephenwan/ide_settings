@@ -16,6 +16,7 @@ Ctrl + L
 - ~(SPACE) list schemes (View | Quick Switch Scheme)~
 - ~list subtypes (Subtypes Hierachy) (not working)~
 - ~list supertypes (Supertypes Hierarchy) (not working)~
+- (W) list all tabs a.k.a switcher
 
 Ctrl + G
 - (P) to select in project view (Select in Project View)
