@@ -17,19 +17,23 @@ Ctrl + L
 - ~list subtypes (Subtypes Hierachy) (not working)~
 - ~list supertypes (Supertypes Hierarchy) (not working)~
 - (W) list all tabs a.k.a switcher
+- (N) list current navigation
+- (L) Select in
 
-Ctrl + G
-- (P) to select in project view (Select in Project View)
+Ctrl + P
+- to select in project view (Select in Project View)
+
+Ctrl + Y
+- delete current line
+- (SHIFT) copy current line
 
 
-Ctrl + Tab
-- (RIGHT) next tab
-- (LEFT) previous tab
-- (DOWN) list hidden tabs
-- (UP) close tab
-- (TAB) to move to opposite group (Move to Opposite Group in Other)
-- (\) split vertically
-- (CTRL + \) unsplit
+Ctrl + B
+- (N) next tab
+- (P) previous tab
+- (L) list hidden tabs
+- (C) close tab
+- (O) to move to opposite group (Move to Opposite Group in Other)
 
 Alt + Shift
 - (RIGHT) move to next splitter
